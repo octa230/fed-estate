@@ -1,0 +1,9 @@
+//SWIPER CLASS OVERIDE
+
+.swiper-slide{
+    width: max-content !important;
+
+    @media screen and (max-width: 425px){
+        width: 100% !important;
+    }
+}
